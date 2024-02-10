@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Linux**
 
-- ⚡ Fun fact **Holz means wood**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
