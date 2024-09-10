@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm holz</h1>
-<h3 align="center">A passionate frontend developer from Austria</h3>
+<h3 align="center">A passionate fulsltack developer from Austria</h3>
 
 - 🔭 I’m currently working on [Kipper](https://github.com/Kipper-Lang/Kipper)
 
